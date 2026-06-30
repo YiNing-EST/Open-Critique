@@ -23,8 +23,9 @@
 
 ## 如何参与
 - 提 Issues：指出逻辑漏洞、翻译建议、批判性反馈
-- 发 Pull Requests：提交翻译、修正、补充
-- 或者，在你自己的仓库里，开始你自己的批判
+- 发 Pull Requests：提交翻译、修正、补充和审计等等
+- 或者，在你自己的仓库里，开始你自己的开放批判
+- PS:So much articles and dev speed...forgive me that I really cannot translate all of them to English.If you want to read easier,please use the translate tools to translate them to the language you want.I will try to publish some in English version afterwards.:D 
 
 ## 许可证
 本作品采用 **CC BY-NC-SA 4.0 国际许可协议**。
