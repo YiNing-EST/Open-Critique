@@ -4,3 +4,4 @@
 ## 目录说明
 1. 厕所批判2：工程共产主义导论核心理论文稿(正在撰写和更新)
 2. 审计文档：社会系统审计、功能异化分析、历史史料等配套文件
+PS: Some files with copyright cannot be put there easily,if you want them without too much effort,email me at a82m16@outlook.com,I will try to help you.
