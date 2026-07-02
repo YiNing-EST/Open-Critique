@@ -1,6 +1,6 @@
 # Toilet Critique 2: Introduction to Engineering Communism
 ## From the Disassembly of Alienation to the Reconstruction of Productivity
-(Elementary Philosophy Primer)
+(Unfinished yet,to be continued..)
 be cautious,this english version is directly translated by AI,I strongly recommend you to read the original file in chinese to avoid the errors..
 
 ## Preface: What Makes Me Different from the Next Oppressor?
