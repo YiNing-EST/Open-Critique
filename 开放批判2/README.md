@@ -2,7 +2,7 @@
 本目录为《厕所批判2_工程共产主义导论：从异化拆解到生产力重建》配套内容，包含核心理论文稿、系统审计文档、相关史料。
 
 ## 目录说明
-1. 厕所批判2：工程共产主义导论核心理论文稿(正在撰写和更新)
+1. 厕所批判2系列：工程共产主义田野笔记等理论文稿(正在撰写和更新)
 2. 审计文档：社会系统审计、功能异化分析、历史史料等配套文件
 3. PS: Some files with copyright cannot be put there easily,if you want them without too much effort,email me at a82m16@outlook.com,I will try to help you.
 4. 温馨提示：当你无法看清时，调整至我的原生写作模式————全黑模式————食用更佳；D
